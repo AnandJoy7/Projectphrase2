@@ -1,5 +1,5 @@
 # Project phrase 2
-Dynamic web application hosting with private and public vpc using aws ec2
+## Dynamic web application hosting with private and public vpc using aws ec2
 
 The steps for running an EC2 instance and hosting a website with middleware on Windows are similar to those on Linux, but there are some differences in the specifics of the process. Here are the general steps:
 
